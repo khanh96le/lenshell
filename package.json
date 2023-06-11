@@ -1,8 +1,8 @@
 {
 	"name": "lenshell",
-	"version": "0.0.1",
-	"description": "One click - you have shell",
-	"publisher": "@lenshell/lenshell",
+	"version": "0.0.2",
+	"description": "One click, you have shell",
+	"publisher": "@khanh96le/lenshell",
 	"main": "dist/main.js",
 	"renderer": "dist/renderer.js",
 	"engines": {
